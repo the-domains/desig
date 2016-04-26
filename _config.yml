@@ -1,0 +1,28 @@
+name: desig
+favicon: null
+layout_spectrum: 0.6006020146887749
+typography_spectrum: 0.045474539045244455
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.010829029837623239
+  lightness: 0.06974445632658899
+  saturation: 0.28295837226323783
+  rhythmicContrast: 0.49455888755619526
+purpose: []
